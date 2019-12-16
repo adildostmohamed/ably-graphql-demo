@@ -1,0 +1,43 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/react-hooks": "^3.1.3",
+    "@nivo/line": "^0.60.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.3",
+    "@testing-library/user-event": "^7.1.2",
+    "apollo-boost": "^0.4.4",
+    "apollo-link-ws": "^1.0.19",
+    "chart.js": "^2.9.3",
+    "graphql": "^14.5.8",
+    "react": "^16.12.0",
+    "react-chartjs-2": "^2.8.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.3.0",
+    "subscriptions-transport-ws": "^0.9.16",
+    "victory": "^33.1.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
