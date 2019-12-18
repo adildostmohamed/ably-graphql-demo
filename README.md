@@ -3,9 +3,9 @@
 ## To get running:
 
 ### Ably:
-Visit `https://www.ably.io/` and sign up for an account
-From your dashboard visit the API Streamer tab, select to be a subscriber to the Bitcoin Pricing (JPY) Product
-Get the Ably API key for an app (using either the sandbox app created by default or create a new app) and get a license key with the appropriate privileges to read messages from a channel
+- Visit `https://www.ably.io/` and sign up for an account
+- From your dashboard visit the API Streamer tab, select to be a subscriber to the Bitcoin Pricing (JPY) Product
+- Get the Ably API key for an app (using either the sandbox app created by default or create a new app) and get a license key with the appropriate privileges to read messages from a channel
 
 ### Server:
 Navigate to server directory
